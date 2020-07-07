@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\bin\Debug\RectangleOOP_V2.exe.config
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\bin\Debug\RectangleOOP_V2.exe
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\bin\Debug\RectangleOOP_V2.pdb
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\obj\Debug\RectangleOOP_V2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\obj\Debug\RectangleOOP_V2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\obj\Debug\RectangleOOP_V2.exe
+C:\Users\ADMIN\Desktop\HCCG\.NET\OopTrain\Rectangle\RectangleOOP_Ver2\RectangleOOP_V2\obj\Debug\RectangleOOP_V2.pdb
